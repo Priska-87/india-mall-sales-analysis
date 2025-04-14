@@ -83,7 +83,7 @@ Analizar los datos de ventas y clientes de centros comerciales en la India para 
 
 ## 📬 Contacto
 
-Podés ver más de mi trabajo en [tu perfil de GitHub si querés agregarlo].
+Podés ver más de mi trabajo en [https://github.com/Priska-87].
 
 ---
 
